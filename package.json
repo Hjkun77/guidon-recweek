@@ -1,0 +1,14 @@
+{
+  "name": "guidon-recweek",
+  "version": "1.0.0",
+  "description": "'Join Guidon this Recweek 2019'",
+  "main": "index.html",
+  "scripts": {
+    "test": "\"live-server\""
+  },
+  "author": "Hjkun77",
+  "license": "ISC",
+  "dependencies": {
+    "minireset.css": "0.0.5"
+  }
+}
